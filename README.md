@@ -3,7 +3,7 @@ Find Your Best Match ANZSCO Occupations in Just a Few Clicks！
 
 Occupation Solver is a free, downloadable GUI program written in Python. By answering up to 24 multiple-choice questions, this program will help to match your working experience to one or more occupations defined in ANZSCO v1.3, which can be useful for your Australian visa application. The program supports both English and (simplified) Chinese languages.
 
-You need a Windows operating system to run the program. Simply download and execute it. If your firewall is blocking the program, please allow it through.
+You need a Windows operating system to run the program. Simply download the .exe file [here](https://github.com/indeed-stupid/occupation-solver/releases/tag/Occupation_Solver_v1.0.0) and run it. If your firewall is blocking the program, please allow it through.
 
 ***What is ANZSCO?***
 
